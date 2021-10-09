@@ -1,6 +1,6 @@
 # Project Name: Skillup Training
 
-This project live at netlify in [This Link]().
+This project live at netlify in [This Link](https://goofy-perlman-121e14.netlify.app).
 
 ## Used Languages
 
